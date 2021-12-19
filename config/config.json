@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc621e8e72a31B40b314f9BC9B68b07009F8c1F09",
+  "SCAN_LINK": "https://polygonscan.com/address/0xc621e8e72a31B40b314f9BC9B68b07009F8c1F09",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Pixel Moai Club",
+  "SYMBOL": "PixelMoaiClub",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pixelmoaiclub",
+  "SHOW_BACKGROUND": false
+}
